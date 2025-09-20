@@ -102,7 +102,7 @@ def main():
       print("[0]\tCriar a tabela")
       print("[1]\tCriar colunas da tabela")
       print("[2]\tInserir QUERYs no banco de dados.\n")
-      print("oOo................................oOo")
+      print("oOo...................................oOo")
 
       user = str(input("#:"))
       if user == "0":
